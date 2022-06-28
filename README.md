@@ -20,4 +20,4 @@ The attributes of this data set include: User attributes Gender: male, female Ag
 
 Summary of Findings
 
-I was able to find that for a KNClassifier the subsequeny hyper parameters {'n_neighbors': 4, 'weights': 'distance'} yielded a 97.14% accuracy score on the MNINST testing data.
+I was able to find that for a KNClassifier the subsequent hyper parameters {'n_neighbors': 4, 'weights': 'distance'} yielded a 97.14% accuracy score on the MNINST testing data.
