@@ -2,6 +2,10 @@ Project Title
 
 Hyper-Parameter Tuning of KNClassifier on MINST dataset
 
+Link to Jupyter notebook below:
+
+https://github.com/philipMLdatascientist/Hyper-Parameter-Tuning-of-KNClassifer-on-MINST-dataset/blob/main/MINST%20Dataset%2C%20KNeighborsClassifier%2C%20%26%20Hyper-parameter%20Tuning.ipynb
+
 Project Description.
 
 Tune the hyper-parameters of a supervised machine learning model to achieve an accuracy score of over 97% on the testing sample.
